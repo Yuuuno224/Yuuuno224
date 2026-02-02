@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Yuuuno 🌙
 
-<!--
-**Yuuuno224/Yuuuno224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 「技术，是现实世界里的小小魔法。」
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Embedded & software enthusiast.  
+I build things quietly, one line at a time.
+
+---
+
+### 🌸 Interests
+
+- Low-level programming  
+- Embedded systems  
+- Hardware × software  
+- Simple, clean designs
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuuuno224&show_icons=true&theme=transparent&hide_title=true)
