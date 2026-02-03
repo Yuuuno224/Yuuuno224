@@ -18,4 +18,7 @@ I build things quietly, one line at a time.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuuuno224&show_icons=true&theme=transparent&hide_title=true)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuuuno224&show_icons=true&theme=transparent&hide_title=true) -->
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
