@@ -21,8 +21,8 @@
             .header { font-size: 15.5px; }
           }
           
-    .description { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #fff }
-    .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #fff }
+    .description { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff }
+    .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff }
     .icon { fill: #586069 }
     .badge { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; }
     .badge rect { opacity: 0.2 }
@@ -60,7 +60,7 @@
           height="99%"
           stroke="#e4e2e2"
           width="399"
-          fill="#fffefe"
+          fill="#2c2e3a"
           stroke-opacity="1"
         />
 
